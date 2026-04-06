@@ -1,4 +1,5 @@
 terraform{
+  //terraform version and provider details
      required_version = ">=1.3.7"
   required_providers {
     azurerm = {
